@@ -1,0 +1,9 @@
+# Compiled class files
+bin/
+
+# IDE settings
+.vscode/
+
+# Claude
+.claude/
+CLAUDE.md
