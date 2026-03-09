@@ -4,6 +4,3 @@ bin/
 # IDE settings
 .vscode/
 
-# Claude
-.claude/
-CLAUDE.md
